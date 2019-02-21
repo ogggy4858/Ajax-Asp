@@ -1,0 +1,2 @@
+H:\project\c#\ASP\Ajax-ASP\Data\obj\Debug\Data.csprojAssemblyReference.cache
+H:\project\c#\ASP\Ajax-ASP\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
